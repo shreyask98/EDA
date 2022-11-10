@@ -1,4 +1,4 @@
-### This notebook was prepared by [Shreyas Kumbhar](). Source and license info is on [GitHub]().
+### This notebook was prepared by [Shreyas Kumbhar](). Source and license info is on [GitHub](https://github.com/shreyask98/EDA/blob/main/EDA_students_performance_in_exams.md).
 
 ## 1) Problem statement
 Analysis on the Student’s Performance dataset to learn and explore the reasons which affect the marks scored by students.
