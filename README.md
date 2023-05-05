@@ -1,4 +1,4 @@
-# Student Performance Analysis EDA
+# 1. Student Performance Analysis EDA
 
 This is a project for analyzing the performance of students in a school. The goal is to gain insights into the factors that contribute to academic success and identify areas where improvements can be made.
 Data
@@ -32,7 +32,7 @@ Conclusion
 
 The analysis found that parental level of education and test preparation course were significant predictors of academic performance. Students who had parents with higher levels of education and those who completed a test preparation course tended to perform better in all three subjects. There was also a strong correlation between math and reading scores, and a moderate correlation between math and writing scores. These findings suggest that targeted interventions to improve test preparation and parental involvement could improve student performance.
 
-# World Population Analysis EDA Project
+# 2. World Population Analysis EDA Project
 
 This project aims to analyze the world population from the year 1950 to the present day. The data used in this project is sourced from the United Nations' World Population Prospects.
 Project Structure
