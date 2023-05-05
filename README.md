@@ -1,3 +1,37 @@
+# Student Performance Analysis EDA
+
+This is a project for analyzing the performance of students in a school. The goal is to gain insights into the factors that contribute to academic success and identify areas where improvements can be made.
+Data
+
+The data for this project comes from a fictitious school and contains information on students' demographic characteristics, family background, and academic performance. The dataset includes 1000 records and 8 columns, including gender, ethnicity, parental level of education, lunch, test preparation course, math score, reading score, and writing score.
+Methodology
+
+The data was cleaned and preprocessed using Python and its data analysis libraries, including Pandas, NumPy, and Matplotlib. The analysis includes exploratory data analysis, statistical analysis, and data visualization.
+
+The project answers the following questions:
+
+    How do different demographic factors impact student performance?
+    What is the relationship between test preparation and academic performance?
+    How are the three subject scores (math, reading, and writing) related to each other?
+
+Files
+
+    student_performance_analysis.ipynb: Jupyter notebook containing the code and analysis
+    student_performance.csv: dataset used in the analysis
+    README.md: this file
+
+Requirements
+
+The following Python libraries are required to run the Jupyter notebook:
+
+    pandas
+    numpy
+    matplotlib
+
+Conclusion
+
+The analysis found that parental level of education and test preparation course were significant predictors of academic performance. Students who had parents with higher levels of education and those who completed a test preparation course tended to perform better in all three subjects. There was also a strong correlation between math and reading scores, and a moderate correlation between math and writing scores. These findings suggest that targeted interventions to improve test preparation and parental involvement could improve student performance.
+
 # World Population Analysis EDA Project
 
 This project aims to analyze the world population from the year 1950 to the present day. The data used in this project is sourced from the United Nations' World Population Prospects.
